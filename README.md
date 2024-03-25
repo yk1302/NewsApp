@@ -1,6 +1,5 @@
 # news_app
-
-A new Flutter project.
+News App a flutter application which fetch news based on channel or based on topic using api.
 
 ## Getting Started
 
